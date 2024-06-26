@@ -1,0 +1,6 @@
+// test2.sy
+int main() {
+    int a=0x3G;
+    putint(a);
+    return 0;
+} 

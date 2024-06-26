@@ -1,0 +1,5 @@
+int main() {
+    int a=08;
+    putint(a);
+    return 0;
+} 
